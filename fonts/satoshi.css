@@ -1,0 +1,28 @@
+/*
+
+*
+*   Satoshi Font Import
+*   https://www.fontshare.com/fonts/satoshi
+*
+
+*/
+
+@font-face {
+	font-family: 'Satoshi';
+	src: url("Satoshi-Variable.woff2"),
+		 url("Satoshi-Variable.woff"),
+		 url("Satoshi-Variable.ttf");
+	font-weight: 300 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Satoshi';
+	src: url("Satoshi-VariableItalic.woff2"),
+		 url("Satoshi-VariableItalic.woff"),
+		 url("Satoshi-VariableItalic.ttf");
+	font-weight: 300 900;
+	font-style: italic;
+	font-display: swap;
+}
